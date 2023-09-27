@@ -1,7 +1,6 @@
 {
   "name": "10-calendar-backend",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -21,5 +20,15 @@
     "jsonwebtoken": "^9.0.0",
     "moment": "^2.29.4",
     "mongoose": "^6.8.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maria622/Node-Backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Maria622/Node-Backend/issues"
+  },
+  "homepage": "https://github.com/Maria622/Node-Backend#readme",
+  "description": ""
 }
